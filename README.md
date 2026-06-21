@@ -1,2 +1,12 @@
 # 2026worldcup-zhbest-pages
-HTML page archive and documentation
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
